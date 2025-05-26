@@ -5,7 +5,7 @@ Each notebook implementation contains:
 - A general description of the algorithm, a simple implementation, and a Gemini Canvas that Visualizes the algorithm on a particular optimization problem.
 ---
 ## Notebooks
-- ![Particle_Swarm_Optimization](Particle_Swarm_Optimization.ipynb) 
+- ![Particle_Swarm_Optimization](Particle_Swarm_Optimization.ipynb) --- [Visualization](https://g.co/gemini/share/7a73f11b2e54)
 - ![Swarm_Optimization_Algorithm](Swarm_Optimization_Algorithm.ipynb)
 - ![✳️Slime_Mold_Algorithm](✳️Slime_Mold_Algorithm✳️.ipynb) --- [Visualization](https://claude.ai/public/artifacts/cfff48a5-02f3-4efa-9dd6-3a5398b5029e)
 - ![🌸Flower_Pollination_Algorithm](🌸Flower_Pollination_Algorithm🌸.ipynb) --- [Visualization](https://g.co/gemini/share/87425452b751)
