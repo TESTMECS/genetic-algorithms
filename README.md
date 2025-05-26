@@ -6,7 +6,7 @@ Each notebook implementation contains:
 ---
 ## Notebooks
 - ![Particle_Swarm_Optimization](Particle_Swarm_Optimization.ipynb) --- [Visualization](https://g.co/gemini/share/7a73f11b2e54)
-- ![Swarm_Optimization_Algorithm](Swarm_Optimization_Algorithm.ipynb)
+- ![Swarm_Optimization_Algorithm](Swarm_Optimization_Algorithm.ipynb) --- [Visualization](https://g.co/gemini/share/6bcb0eebc7cd)
 - ![✳️Slime_Mold_Algorithm](✳️Slime_Mold_Algorithm✳️.ipynb) --- [Visualization](https://claude.ai/public/artifacts/cfff48a5-02f3-4efa-9dd6-3a5398b5029e)
 - ![🌸Flower_Pollination_Algorithm](🌸Flower_Pollination_Algorithm🌸.ipynb) --- [Visualization](https://g.co/gemini/share/87425452b751)
 - ![🐙Octopus_Optimization_Algorithm](🐙Octopus_Optimization_Algorithm🐙.ipynb) ---  [Visualization](https://g.co/gemini/share/a7ed21abeacb)
