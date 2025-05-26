@@ -11,7 +11,7 @@ Each notebook implementation contains:
 - ![🌸Flower_Pollination_Algorithm](🌸Flower_Pollination_Algorithm🌸.ipynb) --- [Visualization](https://g.co/gemini/share/87425452b751)
 - ![🐙Octopus_Optimization_Algorithm](🐙Octopus_Optimization_Algorithm🐙.ipynb) ---  [Visualization](https://g.co/gemini/share/a7ed21abeacb)
 - ![🐜Ant_Colony_Optimization](🐜Ant_Colony_Optimization🐜.ipynb) --- [Visualization](https://g.co/gemini/share/ae4e958aee46)
-- ![🐝Artificial_Bee_Colony](🐝Artificial_Bee_Colony🐝.ipynb) --- [Visualization]()
+- ![🐝Artificial_Bee_Colony](🐝Artificial_Bee_Colony🐝.ipynb) --- [Visualization](https://g.co/gemini/share/eee6944dad87)
 - ![🐦Cuckoo_Search](🐦Cuckoo_Search🐦.ipynb) --- [Visualization](https://g.co/gemini/share/c7325c81641d)
 - ![🐧Penguin_Optimization_Algorithm](🐧Penguin_Optimization_Algorithm🐧.ipynb) --- [Visualization](https://g.co/gemini/share/eb6ece7ba06f)
 - ![🐳Whale_Optimization_Algorithm](🐳Whale_Optimization_Algorithm🐳.ipynb) --- [Visualization](https://g.co/gemini/share/6bbb94ee7f94)
